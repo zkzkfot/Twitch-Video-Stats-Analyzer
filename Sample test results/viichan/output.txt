@@ -1,0 +1,298 @@
+Screenshot 1
+FPS: 59
+Latency To Broadcaster: 2.18
+Playback Bitrate: 3159
+
+Screenshot 2
+FPS: 61
+Latency To Broadcaster: 2.30
+Playback Bitrate: 2848
+
+Screenshot 3
+FPS: 61
+Latency To Broadcaster: 2.30
+Playback Bitrate: 2848
+
+Screenshot 4
+FPS: 60
+Latency To Broadcaster: 2.18
+Playback Bitrate: 317
+
+Screenshot 5
+FPS: 60
+Latency To Broadcaster: 2.32
+Playback Bitrate: 3087
+
+Screenshot 6
+FPS: 60
+Latency To Broadcaster: 2.17
+Playback Bitrate: 3144
+
+Screenshot 7
+FPS: 64
+Latency To Broadcaster: 2.31
+Playback Bitrate: 3413
+
+Screenshot 8
+FPS: 60
+Latency To Broadcaster: 2.18
+Playback Bitrate: 2925
+
+Screenshot 9
+FPS: 60
+Latency To Broadcaster: 2.18
+Playback Bitrate: 2925
+
+Screenshot 10
+FPS: 57
+Latency To Broadcaster: 2.31
+Playback Bitrate: 3080
+
+Screenshot 11
+FPS: 56
+Latency To Broadcaster: 2.15
+Playback Bitrate: 3149
+
+Screenshot 12
+FPS: 61
+Latency To Broadcaster: 2.27
+Playback Bitrate: 3325
+
+Screenshot 13
+FPS: 59
+Latency To Broadcaster: 2.15
+Playback Bitrate: 2954
+
+Screenshot 14
+FPS: 61
+Latency To Broadcaster: 2.28
+Playback Bitrate: 2874
+
+Screenshot 15
+FPS: 60
+Latency To Broadcaster: 2.28
+Playback Bitrate: 2874
+
+Screenshot 16
+FPS: 60
+Latency To Broadcaster: 2.14
+Playback Bitrate: 3040
+
+Screenshot 17
+FPS: 61
+Latency To Broadcaster: 2.25
+Playback Bitrate: 3291
+
+Screenshot 18
+FPS: 60
+Latency To Broadcaster: 2.12
+Playback Bitrate: 3044
+
+Screenshot 19
+FPS: 60
+Latency To Broadcaster: 2.26
+Playback Bitrate: 3099
+
+Screenshot 20
+FPS: 60
+Latency To Broadcaster: 2.11
+Playback Bitrate: 3171
+
+Screenshot 21
+FPS: 57
+Latency To Broadcaster: 2.22
+Playback Bitrate: 2969
+
+Screenshot 22
+FPS: 56
+Latency To Broadcaster: 2.09
+Playback Bitrate: 2969
+
+Screenshot 23
+FPS: 60
+Latency To Broadcaster: 2.09
+Playback Bitrate: 3392
+
+Screenshot 24
+FPS: 61
+Latency To Broadcaster: 2.06
+Playback Bitrate: 2736
+
+Screenshot 25
+FPS: 60
+Latency To Broadcaster: 2.06
+Playback Bitrate: 3254
+
+Screenshot 26
+FPS: 60
+Latency To Broadcaster: 2.19
+Playback Bitrate: 3008
+
+Screenshot 27
+FPS: 61
+Latency To Broadcaster: 2.33
+Playback Bitrate: 3147
+
+Screenshot 28
+FPS: 60
+Latency To Broadcaster: 2.33
+Playback Bitrate: 3147
+
+Screenshot 29
+FPS: 60
+Latency To Broadcaster: 2.17
+Playback Bitrate: 3423
+
+Screenshot 30
+FPS: 60
+Latency To Broadcaster: 2.31
+Playback Bitrate: 2983
+
+Screenshot 31
+FPS: 63
+Latency To Broadcaster: 2.15
+Playback Bitrate: 3142
+
+Screenshot 32
+FPS: 60
+Latency To Broadcaster: 2.29
+Playback Bitrate: 2933
+
+Screenshot 33
+FPS: 60
+Latency To Broadcaster: 2.16
+Playback Bitrate: 3089
+
+Screenshot 34
+FPS: 60
+Latency To Broadcaster: 2.28
+Playback Bitrate: 3234
+
+Screenshot 35
+FPS: Skipped
+
+Screenshot 36
+FPS: 60
+Latency To Broadcaster: 2.12
+Playback Bitrate: 2919
+
+Screenshot 37
+FPS: Skipped
+
+Screenshot 38
+FPS: 60
+Latency To Broadcaster: 2.13
+Playback Bitrate: 317
+
+Screenshot 39
+FPS: 60
+Latency To Broadcaster: 2.25
+Playback Bitrate: 3027
+
+Screenshot 40
+FPS: 60
+Latency To Broadcaster: 2.09
+Playback Bitrate: 3065
+
+Screenshot 41
+FPS: 60
+Latency To Broadcaster: 2.24
+Playback Bitrate: 3139
+
+Screenshot 42
+FPS: 60
+Latency To Broadcaster: 2.11
+Playback Bitrate: 3139
+
+Screenshot 43
+FPS: 61
+Latency To Broadcaster: 2.11
+Playback Bitrate: 3274
+
+Screenshot 44
+FPS: 60
+Latency To Broadcaster: 2.07
+Playback Bitrate: 2642
+
+Screenshot 45
+FPS: 61
+Latency To Broadcaster: 2.07
+Playback Bitrate: 3141
+
+Screenshot 46
+FPS: 58
+Latency To Broadcaster: 2.22
+Playback Bitrate: 3343
+
+Screenshot 47
+FPS: 60
+Latency To Broadcaster: 2.09
+Playback Bitrate: 2761
+
+Screenshot 48
+FPS: 60
+Latency To Broadcaster: 2.09
+Playback Bitrate: 2761
+
+Screenshot 49
+FPS: 60
+Latency To Broadcaster: 2.20
+Playback Bitrate: 2987
+
+Screenshot 50
+FPS: 57
+Latency To Broadcaster: 2.31
+Playback Bitrate: 3318
+
+Screenshot 51
+FPS: 61
+Latency To Broadcaster: 2.19
+Playback Bitrate: 3401
+
+Screenshot 52
+FPS: 60
+Latency To Broadcaster: 2.30
+Playback Bitrate: 3014
+
+Screenshot 53
+FPS: 57
+Latency To Broadcaster: 2.17
+Playback Bitrate: 2988
+
+Screenshot 54
+FPS: 60
+Latency To Broadcaster: 2.27
+Playback Bitrate: 3302
+
+Screenshot 55
+FPS: 61
+Latency To Broadcaster: 2.27
+Playback Bitrate: 3302
+
+Screenshot 56
+FPS: 60
+Latency To Broadcaster: 2.15
+Playback Bitrate: 2956
+
+Screenshot 57
+FPS: 62
+Latency To Broadcaster: 2.29
+Playback Bitrate: 3201
+
+Screenshot 58
+FPS: 60
+Latency To Broadcaster: 2.14
+Playback Bitrate: 3046
+
+Screenshot 59
+FPS: Skipped
+
+Screenshot 60
+FPS: 61
+Latency To Broadcaster: 2.12
+Playback Bitrate: 3165
+
+Average of fps :  59.95
+Average of latency to broadcaster :  2.20 sec.
+Average of playback bitrate :  2985.98 Kbps
+Video stats analysis is done.
