@@ -6,6 +6,6 @@ To calculate average FPS, bitrate, and latency, you need to modify some codes li
 -Set the location to save the captured photos.<br/>
 screenshot_folder = '/User/Example/'<br/>
 -Set the location to save output.txt file.<br/>
-f= open("/Users/Example/output.txt","w+") # modify before '/output.txt'
+f= open("/Users/Example/output.txt","w+") # modify before '/output.txt'<br/>
 -set the screen area you want to capture.<br/>
 screenshot = pyautogui.screenshot(screenshot_name, region=(left, top, right, bottom)) 
